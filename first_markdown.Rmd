@@ -4,6 +4,9 @@ author: "owais"
 date: "4/22/2020"
 output: pdf_document
 ---
+```{r}
+print("hello")
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
